@@ -6,7 +6,7 @@ Musical scores written in ABC notation.
 Origin
 ------
 
-Scores are original music, created either by me or by rock band Primakers. Please, look at copyright notes inside the score for authoring and licensing information. If no license specified, CC-BY-NC-SA applies dy default to score and generated music.
+Scores are original music, created either by me or by rock band Primakers. Please, look at copyright notes inside the score for authoring and licensing information. If no license specified, CC-BY-NC-SA applies by default to score and generated music.
 
 I used [EasyABC](http://www.nilsliberg.se/ksp/easyabc/) program, which integrates everything you need, and generates the score as you type.
 
