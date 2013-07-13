@@ -1,0 +1,104 @@
+% -----------------------------------------------------------------------------
+%  Love
+% -----------------------------------------------------------------------------
+%%abc-copyright (C) Primakers 2013. CC-BY-NC-SA
+%%abc-charset utf-8
+%%footer \- $P \-
+%%topmargin	1cm
+%%botmargin	1cm
+%%leftmargin	1cm
+%%rightmargin	1cm
+%%scale 0.70
+X:1
+P: IAB.ABCDE.ABCDE.CDF   (song sequence)
+T: Love
+T: (is the fever)
+M: 4/4
+L: 1/16
+Q: "Andante" 90
+C: Primakers
+Z: Oscar Ciudad <oscar@jacho.net>
+Z: abc-copyright (C) Primakers 2013
+G: voice, electric bass, electric guitar, drums, hammond organ
+%%MIDI gchord czczczczczczczcz
+%%MIDI chordvol 60
+%%MIDI drum dzzzdzzzdzdzdzzz 36 38 36 36 38
+V: 1 clef=treble sname="Voice"
+%%MIDI program 53
+V: 2 clef=F-8 sname="Bass" transpose=-24 % used F-8 & transpose to avoid commas
+%%MIDI program 33
+K: Am
+% -----------------------------------------------------------------------------
+%%staves 2
+P: I (introduction)
+[V:1] z16|z16|z16|z16|
+[V:2] A,4 AAzA, - A,2A,2 DEG2|A,4 AAzA, - A,2A,2 DEG2|\
+      A,4 AAzA, - A,2A,2 DEG2|A,4 AAzA, - A,2A,2 DEG2|
+%%staves 1|2
+%%MIDI drumon
+[V:1] |:"Am"z16|z16|z16|z16:|
+[V:2] |:A,4 AAzA, - A,2A,2 DEG2|A,4 AAzA, - A,2A,2 DEG2|\
+      A,4 AAzA, - A,2A,2 DEG2|A,4 AAzA, - A,2A,2 DEG2:|
+% -----------------------------------------------------------------------------
+P:A (first part)
+[V:1] "Am"z4E4z8             |z4{_E}D2CD zA,z2 z4    |\
+w:    1,3.~Love                 is the fe-ver.
+w:    2.~Love                 is the fe-ver.
+      z4 ED2E z2G zD2E2      |z4 ED2E z2G zD2E2      |
+w:    Sabes  va~a su-ce-der,_ de-bes en-ten-der_
+w:    Mu-cho   tiem-po~a-sí,_ no pue-des vi-vir_
+[V:2] A,4 AAzA, - A,2A,2 DEG2|A,4 AAzA, - A,2A,2 DEG2|\
+      A,4 AAzA, - A,2A,2 DEG2|A,4 AAzA, - A,2A,2 DEG2|
+% ------------------------
+[V:1] "F"z4 FE2F z2E2 F4        |z4 FE2F z2E2 F4           |\
+w:    1,3.~Tie-nes que~a-su-mir,   si~hay den-tro de tí
+w:    2.~Mata tu vo-lun-tad,     sonríe~a la li-ber-tad
+      "Am"z4{_E}D2CD zA,z2 z4   |z4{_E}D2CD zA,z2 z4       |
+w:    Is the fe-ver.             Is the fe-ver.
+w:    Is the fe-ver.             Is the fe-ver.
+[V:2] F,4 FFzF, - F,2F,2 _B,C_E2|F,4 FFzF, - F,2F,2 _B,C_E2|\
+      A,4 AAzA, - A,2A,2 DEG2   |A,4 AAzA, - A,4B,4        |
+% -----------------------------------------------------------------------------
+P:B (second part)
+[V:1] |:"C"z4E2D2 E2(G2 E2)D2|"G"z4 E2D2 E2(G2 E2)D2   |"Am"(E2D2 C2A,2) z8\
+w:    1,3.(1)~Ni~un mi-nu-to_ más  de-bes es-pe---rar___
+w:    1,3.(2)~Ven y lán-za--te, haz-me~u-na se---ñal___
+w:    2.(1)~Solo~u-na~in-vi-ta--ción no~pue-des re-cha---zar___
+w:    2.(2)~Abre tu co-ra--zón con mi lla-ve de a-mor___
+      |1 z16                :|2 z12"C"z4         ||
+[V:2] |:C2C2 C2C2 C2C2 C2C2  |B,2B,2 G,2G,2 C2C2 B,2B,2|A,4 AAzA,- A,2A,2 DEG2\
+      |1 A,4 AAzA, - A,4B,4 :|2 A,4 AAzA, - A,4C4||
+% -----------------------------------------------------------------------------
+P:C (third part)
+[V:1] |:"D"z4 D2C2 D2C2 D2C2|"Am" E2A,2 A,2C2 - C2D2 z2G,2|"C"C4 D2E2 - E2E2 -E2D2\
+w:    1,3.(1)~Cuan-do ba-_jas_ tu_ mi-ra--da no e-res tú____
+w:    1,3.(2)~To-do lo_ que_ lle--vas den--tro trans-pór-ta-lo~a la rea-li-dad 
+w:    2.(1)~Amor sur-gi--do_ de_ la na--da, e-so~es a-mor____
+w:    2.(2)~No re-pri--mas_ sen--ti-mien--tos, ex-pré-sa-te con li-ber-tad
+      |1 "G"z16                :|2 "G"z12"G#"z4         ||
+[V:2] |:D4 z2A2 - A2c2 A4  |A,4 z2E2 - E2G2 E4  |C4 z2E2 - E2G2 E4\
+      |1 G,4 z12 :|2 G,4 z4 G,4 ^G,4 ||
+% -----------------------------------------------------------------------------
+P:D (same as A, without voice. For instrument solos)
+[V:1] "Am"z16|z16|z16|z16|
+[V:2] A,4 AAzA, - A,2A,2 DEG2|A,4 AAzA, - A,2A,2 DEG2|\
+      A,4 AAzA, - A,2A,2 DEG2|A,4 AAzA, - A,2A,2 DEG2|
+% ------------------------
+[V:1] "F"z16|z16|"Am"z16|z16|
+[V:2] F,4 FFzF, - F,2F,2 _B,C_E2|F,4 FFzF, - F,2F,2 _B,C_E2|\
+      A,4 AAzA, - A,2A,2 DEG2   |A,4 AAzA, - A,4B,4        |
+% -----------------------------------------------------------------------------
+P:E (same as B, without voice. For instrument solos)
+[V:1] |:"C"z16|"G"z16|"Am"z16\
+      |1 z16                :|2 z12"C"z4         ||
+[V:2] |:C2C2 C2C2 C2C2 C2C2  |B,2B,2 G,2G,2 C2C2 B,2B,2|A,4 AAzA,- A,2A,2 DEG2\
+      |1 A,4 AAzA, - A,4B,4 :|2 A,4 AAzA, - A,4C4||
+% -----------------------------------------------------------------------------
+P:F (variation of E, to finish song)
+[V:1] |:"C"z16|"G"z16|"Am"z16\
+      |1 z16                :|2\
+%%MIDI drumoff
+%%MIDI gchord c
+ "Am"z16|]
+[V:2] |:C2C2 C2C2 C2C2 C2C2  |B,2B,2 G,2G,2 C2C2 B,2B,2|A,4 AAzA,- A,2A,2 DEG2\
+      |1 A,4 AAzA, - A,4B,4 :|2 A,16|]
