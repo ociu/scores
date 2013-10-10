@@ -47,8 +47,7 @@ reading generated PDF.
 More information
 ----------------
 
-* The ABC reference I use most of the time:
-* http://abc.sourceforge.net/standard/abc2-draft.html The ABC plus
-* project: http://abcplus.sourceforge.net/. Includes a very good PDF
-* guide for music creation with ABC.  Much more resources on ABC:
-* http://abcnotation.com/learn
+* The ABC reference I use most of the time: http://abc.sourceforge.net/standard/abc2-draft.html
+* The ABC plus project: http://abcplus.sourceforge.net/. Includes a very good PDF guide for music creation with ABC.
+* Much more resources on ABC: http://abcnotation.com/learn
+
